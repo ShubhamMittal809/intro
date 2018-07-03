@@ -1,0 +1,8 @@
+nice way to calculate power of 2
+
+CONCEPT:
+left shift operator(<<) doubles the no on left as many time as no on right
+so observe 2^n it is 1*(2*2*2..n times) ie 1 doubled n times
+
+hence 2^n==1<<n ;// work for 2^30 ie n=30
+
