@@ -1,2 +1,4 @@
 just testing effect on commit
 comiiting changes
+
+Now i will learn how to make minor branch 
