@@ -1,0 +1,3 @@
+on observation each elemnt in the sub-array occurs 2^(n-1) times where n is the no of elemnts in the array.
+
+so ans is = (SUM OF ALL ELEMENTS IN THE ARRAY)*(1<<n-1)
