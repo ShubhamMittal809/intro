@@ -1,5 +1,10 @@
 just testing effect on commit
-comiiting change
+
+comitting changes
+
+Now i will learn how to make minor branch 
+
+
 
 _______________________________________________________
 this is final version
